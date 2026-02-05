@@ -15,7 +15,7 @@ This repository contains a Python-based automation bot for "The Tower Game". The
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/jarryzeng/The-Tower-Game-Script-On-Windows.git
    ```
 2. Install the required packages:
    ```bash
